@@ -2,5 +2,5 @@ package com.example.bitfit
 
 data class BitFit(
     val food: String?,
-    val calories: Double?
+    val calories: String?
 ): java.io.Serializable
